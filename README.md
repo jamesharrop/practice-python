@@ -1,1 +1,1 @@
-My solutions to some of the problems at practicepython.com
+My solutions to some of the problems at [www.practicepython.org](http:/www.practicepython.org).
